@@ -1,62 +1,56 @@
-
-  { 
+[
+  {
     "device_id": "0e03590428cbbeaa",
     "key": "khan4203390",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "f135f7d57f96e8fd",
     "key": "khanpassword12",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "bf35423d67524c1a",
     "key": "habib123",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "d70acb9e7badde6e",
     "key": "ramesh123",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "d96583a1d41fc6ee",
     "key": "alamgeer",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "1de8320e1988c87e",
     "key": "12345678",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "ffdd78ecdc4b43e2",
     "key": "123456789",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-  
   },
   {
     "device_id": "308f2e39c044506c",
     "key": "free1234",
     "expirydate": "10-05-2027",
     "Allowoffline": false
-},
+  },
   {
     "device_id": "",
-    "key": ،",
+    "key": "",
     "expirydate": "10-05-2027",
     "Allowoffline": false
   }
+]
